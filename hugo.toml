@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh'
+title = 'My New Hugo Site'
+PublishDir = "docs"
+theme = 'ananke'
